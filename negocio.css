@@ -1,0 +1,59 @@
+div{
+    display: inline-block;
+    text-align: center;
+   width: 340px;
+  border:2px solid #df6839 ;
+}
+main{background-color: #0f1617;margin-right: 14% ;margin-left: 9%;padding-bottom: 16%;padding-top: 3% ; box-shadow: 3px 3px 7px;width: 1500px; border-radius: 5px;border: #df6839 5px solid;}
+
+h1{text-align: center; color: #d0c9c8;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: 150; font-style: italic;font-size: 100px;text-decoration: underline;}
+
+h2{text-align: center;color: #d0c9c8;}
+
+h3{color: #d0c9c8;}
+
+p{text-align: center;color: #df6839;}
+
+nav{text-align: center;}
+
+header{text-align: center;}
+
+body{
+    background-image: url(https://i.pinimg.com/236x/86/8f/e3/868fe3576d0b73fa4f2a67a9f867c2c0.jpg);
+    background-size: cover;
+    width:1920px ;
+    height: 1080px;
+}
+hr{width: 1000px;
+height: 2px;
+background-color: #605e5f;}
+
+#PALESTRANTES{background-color: #df6839;width: 500px;margin-left: 500px;}
+
+a{color: #fff;size: 500px;}
+a:hover{color: #df6839;}
+iframe{height: 250px;width: 400px; border-radius: 10px;}
+
+footer{color: #838c8c;}
+
+img{border: #838c8c 3px solid ;}
+
+.redes-sociais {display: flex ;justify-content: center;gap: 5px;margin: 40px 0;}
+        .icone{
+            color: rgb(244, 241, 241);
+            font-size: 30px;
+            text-decoration: none;
+            ;
+            border-radius: 10px;
+            padding: 10px 15px;
+            display: inline-block;
+        }
+
+        section{background-color: #302d2f;;}
+        article > h2{text-align: left;}
+        article > p {color: #d0c9c8;}
+
+        #bio{width: 1400px;height: 50px;margin-left: 40px;gap: 50px
+            ;border: #df6839 5px solid;}
+
+        
